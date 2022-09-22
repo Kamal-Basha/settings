@@ -1,0 +1,5 @@
+ this is control page in the settings diretory 
+ in that we have different set point in the control page.
+
+ i will updated the next commit if you have any doubt please go through the next commit.
+
